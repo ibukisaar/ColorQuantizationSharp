@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ColorQuantizationTest": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "nativeDebugging": true
+    }
+  }
+}
